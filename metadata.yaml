@@ -1,0 +1,26 @@
+_repo: Yon-lapsi_48784
+contributor:
+  translator:
+    agent_name: Ventola, Viljami
+    gutenberg_agent_id: '44968'
+    url: http://www.gutenberg.org/2009/agents/44968
+creator:
+  author:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: http://en.wikipedia.org/wiki/Jack_London
+description: ''
+gutenberg_issued: '2015-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48784'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Yön lapsi
+url: http://www.gutenberg.org/ebooks/48784
