@@ -1,9 +1,13 @@
 _repo: Yon-lapsi_48784
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Ventola, Viljami
     gutenberg_agent_id: '44968'
     url: http://www.gutenberg.org/2009/agents/44968
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: London, Jack
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/120
     wikipedia: http://en.wikipedia.org/wiki/Jack_London
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48784#Yon-lapsi
 gutenberg_issued: '2015-04-24'
 gutenberg_type: Text
 identifiers:
